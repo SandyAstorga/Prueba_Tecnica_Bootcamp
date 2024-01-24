@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+
+$theme-colors: (
+  "primary":    #84b6f4,
+  "secondary":  #77dd77,
+  "success":    #fdfd96,
+  "info":       #fdcae1,
+  "warning":    #ff6961,
+  "danger":     #fcb7af,
+  "light":      #c5c6c8,
+  "dark":       #9b9b9b,
+  );
+
+// @import 'node_modules/bootstrap/scss/bootstrap.scss'
